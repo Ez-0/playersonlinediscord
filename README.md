@@ -1,0 +1,1 @@
+Juste ouvrir config et modifier ainsi que index et tout en bas 

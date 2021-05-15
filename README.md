@@ -23,4 +23,4 @@ Server info: Remplacer l'ip et le port par défaut par les votres..
 
 ## Commandes : npm install discord.js   ##  npm i fivereborn-query 
 
-<a href="https://discord.gg/NHsABpb"><img src="https://kasper-rasmussen.dk/assets/images/icons/discord_logo.png" /></a>
+<a href="https://discord.gg/XAcnbtDHnm"><img src="https://kasper-rasmussen.dk/assets/images/icons/discord_logo.png" /></a>
